@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Academic Ownership Notice:** The source code and proprietary datasets for this research are the intellectual property of the **University of Santo Tomas**. Consequently, the source code is not publicly available. This repository serves as a professional showcase of the research methodology, system architecture, and technical findings.
+
 ## 🧠 Panic Attack Detection & Classification: Hybrid ANN-RF with XAI
 This project focuses on the development of a high-accuracy predictive system designed to detect the occurrence and classify the severity of panic attacks. By leveraging a **Hybrid Artificial Neural Network and Random Forest (ANN-RF)** model, the system combines the deep learning capabilities of ANNs with the robust decision-making of Random Forests, all while ensuring transparency through **Explainable Artificial Intelligence (XAI)**. 🚀
 
